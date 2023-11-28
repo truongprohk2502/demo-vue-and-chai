@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": 16.99,
+      "quantity": 5,
+      "postDate": "2023-11-21T17:00:00.000Z",
+      "name": "Iphone 15",
+      "order": 0,
+      "updatedAt": "2023-11-18T17:00:00.000Z"
+    },
+    {
+      "price": 16.99,
+      "quantity": 5,
+      "postDate": "2023-11-21T17:00:00.000Z",
+      "name": "Oppo Find X",
+      "id": 2,
+      "order": 1,
+      "updatedAt": "2023-11-23T07:41:48.437Z"
+    },
+    {
+      "id": 3,
+      "name": "Xiomi Mi10",
+      "postDate": "2023-11-21T17:00:00.000Z",
+      "quantity": 5,
+      "price": 16.99,
+      "order": 2,
+      "updatedAt": "2023-11-16T17:00:00.000Z"
+    },
+    {
+      "price": 2,
+      "quantity": 2,
+      "postDate": "2023-11-21T17:00:00.000Z",
+      "name": "Huawei",
+      "updatedAt": "2023-11-27T03:36:21.319Z",
+      "id": 4
+    }
+  ]
+}
